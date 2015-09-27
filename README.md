@@ -10,3 +10,6 @@ The dataset being used is: Human Activity Recognition Using Smartphones
   
   •Then print averages_data
   
+  
+The data is in descending 
+  

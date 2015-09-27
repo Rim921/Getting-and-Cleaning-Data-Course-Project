@@ -1,5 +1,4 @@
-#run_analysis.R
-
+# run_analysis.R
 
 if (!("plyr" %in% rownames(installed.packages())) ) { 
    print("Install required package 'plyr'") 
